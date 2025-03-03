@@ -10,3 +10,6 @@ A lot of video platforms have a recommendation list on the side of the page. Som
 
 Use the script with any user script extension.
 
+## Contributing
+
+No contributing allowed. All pull request will be closed immediately.

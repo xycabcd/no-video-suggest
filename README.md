@@ -1,4 +1,4 @@
-# Side Recommendation List Remover
+# Video Recommendation Remover
 
 Hide recommendations from video platforms
 

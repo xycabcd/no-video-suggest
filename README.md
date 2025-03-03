@@ -13,3 +13,7 @@ Use the script with any user script extension.
 ## Contributing
 
 No contributing allowed. All pull request will be closed immediately.
+
+## File naming
+
+All files should come with the domain or url it matches as the file name

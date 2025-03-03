@@ -16,4 +16,4 @@ No contributing allowed. All pull request will be closed immediately.
 
 ## File naming
 
-All files should come with the domain or url it matches as the file name
+All files should come with the domain or url it matches as the file name. Slashes should become ":"s, and a "-" should be added after the name, before the extension. 

@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         youtube删除推荐列表
-// @description  删除youtube视频播放界面左边的推荐视频
+// @name         Remove Youtube Suggestion List
+// @description  Remove Youtube's suggestion list on the side
 // @match        *://www.youtube.com/watch?*
 // @grant        none
 // @version      1.0

@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         bilibili删除推荐列表
-// @description  删除bilibili视频播放界面左边的推荐视频
+// @name         Remove Bilibili suggestion list
+// @description  Remove Bilibili's suggestion list on the side
 // @match        *://*.bilibili.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bilibili.com
 // @grant        none
